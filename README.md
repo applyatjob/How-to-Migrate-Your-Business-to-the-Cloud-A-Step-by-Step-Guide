@@ -38,10 +38,10 @@ Not every program is "cloud-ready." Before they may be transferred, some might n
 3. Selecting the Appropriate Cloud Provider and Model
 Choosing the appropriate cloud model and provider is one of the most important decisions you will make during your migration process. Three primary cloud models have to be taken into account:
 
-a)<p style="padding-left: 10px;"> Models for clouds
+a)<span style="padding-left: 20px;"> Models for clouds
 . Public Cloud: In a public cloud, your company functions in a segregated setting while sharing infrastructure with other businesses. Scalability, flexibility, and cost savings are provided by public cloud systems like Google Cloud, Microsoft Azure, and Amazon Web Services (AWS).
 . Private Cloud: A private cloud is one that is only used by your company. Although it might be more costly, it provides more security and control. Businesses with strict security or compliance needs should use it.
-. Hybrid Cloud: By combining aspects of public and private clouds, hybrid cloud enables companies to retain sensitive data in a private cloud while benefiting from the scalability of public cloud services.</p>
+. Hybrid Cloud: By combining aspects of public and private clouds, hybrid cloud enables companies to retain sensitive data in a private cloud while benefiting from the scalability of public cloud services.</span>
 
 (b) Selecting a Cloud Provider
 Take into account the following aspects while choosing a cloud provider:
